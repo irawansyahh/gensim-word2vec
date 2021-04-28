@@ -1,0 +1,5 @@
+1. upload 100 artikel berbahasa indonesia kegoogle drive buat nama folder Dataset 
+seperti contoh berikut: 'drive/My Drive/Dataset'
+2. Sesuaikan drive dengan path masing-masing
+3. upload file word-embedding-plot.html pada drive seperti contoh :
+'drive/My Drive/Colab Notebooks/Dataset/word-embedding-plot.html'
